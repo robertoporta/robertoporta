@@ -16,4 +16,4 @@
 [<img align="left" alt="Roberto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/roberto-g-porta/)
+[linkedin]: https://www.linkedin.com/in/roberto-g-porta/
