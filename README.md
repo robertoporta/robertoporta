@@ -4,7 +4,7 @@
 
 - <b>[Solving a Ticket in osTicket](https://github.com/robertoporta/osticket)</b>
 
-- <b>Setting up reating Users in Active Directory</b>
+- <b>Setting Up Active Directory in a VM and Creating Users in Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Creating Users in Active Directory</b>
@@ -18,4 +18,4 @@
 
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://www.linkedin.com/in/roberto-g-porta/
-<img width="1169" height="657" alt="Image" src="https://github.com/user-attachments/assets/e8d7a487-c4ac-47e7-bf3d-f04972741fb3" />
+
