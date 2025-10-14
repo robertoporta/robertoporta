@@ -4,7 +4,7 @@
 
 - <b>[Solving a Ticket in osTicket](https://github.com/robertoporta/osticket)</b>
 
-- <b>[Deploying and Configuring Active Directory and Users in Azure](https://github.com/robertoporta/osticket)</b>
+- <b>[Deploying and Configuring Active Directory and Users in Azure](https://github.com/robertoporta/activedirectory)</b>
  
 - <b>Creating Users in Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
