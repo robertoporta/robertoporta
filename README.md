@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
--osTicket
-- <b>[Solving a Ticket in osTicket](https://github.com/robertoporta/osticket)</b>
+<b>osTicket</b>
 
-- <b>[Deploying and Configuring Active Directory and Users in Azure](https://github.com/robertoporta/activedirectory)</b>
+- <b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
+
+<b>Microsoft Azure</b>
+
+- <b>[Deploying and Configuring Active Directory and Users](https://github.com/robertoporta/activedirectory)</b>
 
 - <b>[Configuring Network File Shares and Setting Folder Permissions](https://github.com/robertoporta/permissions)</b>
 
