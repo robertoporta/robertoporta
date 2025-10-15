@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+-osTicket
 - <b>[Solving a Ticket in osTicket](https://github.com/robertoporta/osticket)</b>
 
 - <b>[Deploying and Configuring Active Directory and Users in Azure](https://github.com/robertoporta/activedirectory)</b>
