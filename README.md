@@ -4,7 +4,7 @@
 
 - <b>osTicket</b>
 
-    -<b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
+    - <b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
 
 - <b>Microsoft Azure</b>
 
