@@ -17,6 +17,6 @@
 [<img align="left" alt="Roberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roberto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/rporta527
+[instagram]: https://www.instagram.com/rob.porta02
 [linkedin]: https://www.linkedin.com/in/roberto-g-porta/
 
