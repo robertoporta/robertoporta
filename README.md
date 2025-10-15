@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket</b>
+- <b>osTicket (Ticketing System)</b>
 
     - <b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
 
 - <b>Microsoft Azure</b>
 
-    -<b>[Deploying and Configuring Active Directory and Users](https://github.com/robertoporta/activedirectory)</b>
+    - <b>[Deploying and Configuring Active Directory and Users](https://github.com/robertoporta/activedirectory)</b>
 
-    -<b>[Configuring Network File Shares and Setting Folder Permissions](https://github.com/robertoporta/permissions)</b>
+    - <b>[Configuring Network File Shares and Setting Folder Permissions](https://github.com/robertoporta/permissions)</b>
 
 <h2>🤳Connect with me:</h2>
 
