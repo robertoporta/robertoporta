@@ -4,7 +4,7 @@
 
 - <b>Networking Labs</b>
 
-    - <b>[LAN](https://github.com/robertoporta/osticket)</b>
+    - <b>[LAN](https://github.com/robertoporta/LAN)</b>
     
 - <b>osTicket (Ticketing System)</b>
 
