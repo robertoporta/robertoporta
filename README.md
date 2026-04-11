@@ -1,6 +1,6 @@
 <h1>Hello, I'm Roberto Porta, an aspiring <a href="https://linkedin.com/in/roberto-g-porta">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>Networking Labs</b>
 
@@ -16,7 +16,7 @@
 
     - <b>[Configuring Network File Shares and Setting Folder Permissions](https://github.com/robertoporta/permissions)</b>
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Roberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roberto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
