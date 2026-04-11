@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Networking Labs</b>
+
+    - <b>[LAN](https://github.com/robertoporta/osticket)</b>
+    
 - <b>osTicket (Ticketing System)</b>
 
     - <b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
