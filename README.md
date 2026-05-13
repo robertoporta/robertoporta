@@ -4,8 +4,9 @@
 
 - <b>Networking Labs</b>
 
-    - <b>[LAN](https://github.com/robertoporta/LAN)</b>
+    - <b>[Enterprise Leaf–Spine Layer 3 Architecture with OSPF Redundancy and Internet Failover](https://github.com/robertoporta/LAN)</b>
     - <b>[Implementing DHCP Server Relay NAT Overload-and Remote SSH-Administration](https://github.com/robertoporta/Implementing-DHCP-Server-Relay-NAT-Overload-and-Remote-SSH-Administration-)
+    - <b>[Centralized Wireless Lightweight AP Deployment with GRE Tunneling and Split-MAC Architecture]https://github.com/robertoporta/Centralized-Wireless-Lightweight-AP-Deployment-with-GRE-Tunneling-and-Split-MAC-Architecture-/blob/main/README.md
     
 - <b>osTicket (Ticketing System)</b>
 
