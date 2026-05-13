@@ -1,4 +1,4 @@
-<h1>Hello, I'm Roberto Porta, an aspiring <a href="https://linkedin.com/in/roberto-g-porta">IT Professional</a></h1>
+<h1>Hello, I'm Roberto Porta, an aspiring <a href="https://linkedin.com/in/roberto-g-porta">Networking Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
