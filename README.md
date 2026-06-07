@@ -8,9 +8,9 @@
     - <b>[Implementing DHCP Server & Relay, NAT Overload, and Remote SSH Administration](https://github.com/robertoporta/Implementing-DHCP-Server-Relay-NAT-Overload-and-Remote-SSH-Administration)</b>
     - <b>[Centralized Wireless Lightweight AP Deployment with GRE Tunneling and Split-MAC Architecture](https://github.com/robertoporta/Centralized-Wireless-Lightweight-AP-Deployment-with-GRE-Tunneling-and-Split-MAC-Architecture)</b>
     
-- <b>osTicket (Ticketing System)</b>
+- <b>osTicket</b>
 
-    - <b>[Solving a Ticket](https://github.com/robertoporta/osticket)</b>
+    - <b>[Ticket Workflow Example](https://github.com/robertoporta/osticket)</b>
 
 - <b>Microsoft Azure</b>
 
