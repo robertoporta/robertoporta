@@ -1,7 +1,6 @@
 <h1>Hello, I'm Roberto Porta, an aspiring <a href="https://linkedin.com/in/roberto-g-porta">Networking Professional</a></h1>
 
-- <b>Networking Labs</b>
-- <b></b>
+- <h2><b>Networking Labs</b></h2>
 
     - <b>[Leaf–Spine Layer 3 Architecture with OSPF Redundancy and Internet Failover](https://github.com/robertoporta/Enterprise-Leaf-Spine-Layer-3-Architecture-with-OSPF-Redundancy-and-Internet-Failover)</b>
     - <b>[Implementing DHCP Server & Relay, NAT Overload, and Remote SSH Administration](https://github.com/robertoporta/Implementing-DHCP-Server-Relay-NAT-Overload-and-Remote-SSH-Administration-.git)</b>
