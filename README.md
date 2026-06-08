@@ -3,11 +3,11 @@
 <h2>Networking Lab Projects:</h2>
 
 <h1>a</h1>
-<b>
+
     - <b>[Leaf–Spine Layer 3 Architecture with OSPF Redundancy and Internet Failover](https://github.com/robertoporta/Enterprise-Leaf-Spine-Layer-3-Architecture-with-OSPF-Redundancy-and-Internet-Failover)</b>
     - <b>[Implementing DHCP Server & Relay, NAT Overload, and Remote SSH Administration](https://github.com/robertoporta/Implementing-DHCP-Server-Relay-NAT-Overload-and-Remote-SSH-Administration-.git)</b>
     - <b>[Centralized Wireless Lightweight AP Deployment with GRE Tunneling and Split-MAC Architecture](https://github.com/robertoporta/Centralized-Wireless-Lightweight-AP-Deployment-with-GRE-Tunneling-and-Split-MAC-Architecture-.git)</b>
-    - <b>[Network Security Defense Framework: ACLs, Port Security, DHCP Snooping, and Dynamic ARP Inspection](https://github.com/robertoporta/Network-Security-Defense-Framework-ACLs-Port-Security-DHCP-Snooping-and-Dynamic-ARP-Inspection.git)</b>
+    - <b>[Network Security Defense Framework: ACLs, Port Security, DHCP Snooping, and Dynamic ARP Inspection](https://github.com/robertoporta/Network-Security-Defense-Framework-ACLs-Port-Security-DHCP-Snooping-and-Dynamic-ARP-Inspection.git)
 
 <h2>Connect with me:</h2>
 
