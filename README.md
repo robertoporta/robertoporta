@@ -1,7 +1,7 @@
 <h1>Hello, I'm Roberto Porta, an aspiring <a href="https://linkedin.com/in/roberto-g-porta">Networking Professional</a></h1>
 
 <h2>Networking Lab Projects:</h2>
-
+<b>
     - <b>[Leaf–Spine Layer 3 Architecture with OSPF Redundancy and Internet Failover](https://github.com/robertoporta/Enterprise-Leaf-Spine-Layer-3-Architecture-with-OSPF-Redundancy-and-Internet-Failover)</b>
     - <b>[Implementing DHCP Server & Relay, NAT Overload, and Remote SSH Administration](https://github.com/robertoporta/Implementing-DHCP-Server-Relay-NAT-Overload-and-Remote-SSH-Administration-.git)</b>
     - <b>[Centralized Wireless Lightweight AP Deployment with GRE Tunneling and Split-MAC Architecture](https://github.com/robertoporta/Centralized-Wireless-Lightweight-AP-Deployment-with-GRE-Tunneling-and-Split-MAC-Architecture-.git)</b>
