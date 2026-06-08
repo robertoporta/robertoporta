@@ -16,7 +16,6 @@
 - <b>Microsoft Azure</b>
 
     - <b>[Deploying and Configuring Active Directory and Users](https://github.com/robertoporta/activedirectory)</b>
-
     - <b>[Configuring Network File Shares and Setting Folder Permissions](https://github.com/robertoporta/permissions)</b>
 
 <h2>Connect with me:</h2>
@@ -26,4 +25,3 @@
 
 [instagram]: https://www.instagram.com/enigmatic.ocean
 [linkedin]: https://www.linkedin.com/in/roberto-g-porta/
-
